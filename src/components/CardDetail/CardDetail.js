@@ -71,4 +71,4 @@ function CardDetail() {
     )
 }
 
-export default CardDetail
+export default CardDetail;
